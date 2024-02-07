@@ -1,7 +1,7 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dfw6bqy-74554ae5-1f17-4c2f-8604-e615e2da0075.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGZ3NmJxeS03NDU1NGFlNS0xZjE3LTRjMmYtODYwNC1lNjE1ZTJkYTAwNzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CG74VRXIJ3fM6Z9yjQGYr7_49KCQo4keX7AoUE3cB1I)
 <h1 align="center">Hi 👋, I'm Emre Göktepe</h1>
 <h3 align="center">A passionate frontend developer from Germany.</h3>
-<img align="right" alt="Cat" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUyZjlrcXpuOGM5bTd5bnh3NjQ4cWVnYTNiM2E1cW94d2IycW5iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+<img align="right" alt="Cat" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUyZjlrcXpuOGM5bTd5bnh3NjQ4cWVnYTNiM2E1cW94d2IycW5iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emogoektepe&label=Profile%20views&color=0e75b6&style=flat" alt="emogoektepe" /> </p>
 
